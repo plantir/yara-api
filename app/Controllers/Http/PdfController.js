@@ -1,6 +1,6 @@
 "use strict";
 const GOOGLE_DRIVE = "https://docs.google.com/viewerng/viewer";
-const BASE_URL = "https://yara.resaa.net/pdf";
+const BASE_URL = "https://yara.vrwebdesign.ir/pdf";
 const Drive = use("Drive");
 const fs = use("fs");
 class PdfController {
